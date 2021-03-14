@@ -1,0 +1,10 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(¤åñ¼8ö¾ì¶‚/
+t
+java:S1450"WRemove the "executor" field and declare it as a local variable in the relevant methods.(äü¥ 8ªİà·‚/
+W
+java:S1068"5Remove this unused "_movieDataFromApi" private field.(°½âîüÿÿÿÿ8’¯·‚/
+}	java:S116"\Rename this field "_movieDataFromApi" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°½âîüÿÿÿÿ8ÓÕçµ‚/
+r	java:S116"QRename this field "_movie" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ç‡êşÿÿÿÿ8 ¦È¶‚/
+L
+java:S1068"*Remove this unused "_movie" private field.(ç‡êşÿÿÿÿ8ÑÔæ¶‚/
